@@ -10,7 +10,7 @@
 
 <br />
 
-> I build the seam between intelligent software and physical systems.
+> I turn AI ideas into reliable products — from model to machine.
 
 <br />
 
@@ -18,40 +18,49 @@
 
 ---
 
-## The short version
+## What I do
 
-I work across the layers most teams keep separate:
+<table>
+<tr>
+<td valign="top" width="33%">
 
-| `01` | LLM systems |
-| --- | --- |
-|  | Agents, evaluation, MCP, orchestration, APIs |
+### AI systems
 
-| `02` | Edge vision |
-| --- | --- |
-|  | Real-time cameras, Jetson pipelines, TensorRT, computer vision |
+LLM agents, evaluation, orchestration, MCP, APIs, and production backends.
 
-| `03` | Firmware + hardware |
-| --- | --- |
-|  | ESP32, STM32, LoRaWAN, BLE, PCBs, field deployments |
+</td>
+<td valign="top" width="33%">
 
-The interesting work happens where these layers meet.
+### Edge vision
 
-That is where latency becomes a product decision.  
-Where a model needs to survive bad connectivity.  
-Where a prototype has to keep working at 2am on a Sunday.
+Real-time camera pipelines, on-device inference, TensorRT, DeepStream, and Jetson.
+
+</td>
+<td valign="top" width="33%">
+
+### Embedded systems
+
+Firmware, sensors, PCBs, ESP32, STM32, LoRaWAN, BLE, and field deployments.
+
+</td>
+</tr>
+</table>
+
+I connect software, models, and hardware into systems that work outside the demo:
+fast enough, cheap enough, and reliable enough to ship.
 
 ---
 
-## What runs where
+## Working style
 
 ```console
-$ docker ps
+$ systemctl status mutte
 
-CONTAINER      IMAGE                        UPTIME        PORT
-tuple-tech     studio/end-to-end            2 months      :shipping
-consulting     eu/industrial                7 years       :sprints
-h2-drone       confidential/vtol            3 years       :computer-vision
-this-profile   me/independent               24/7          :hire-me
+SERVICE        STATUS       MODE
+consulting     active       focused sprints
+computer-vision active      real-time · edge-first
+embedded       active       hardware that ships
+this-profile   always-on    open to the right problem
 ```
 
 ---
