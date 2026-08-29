@@ -23,6 +23,17 @@ Paris, France · 7 years building production systems
 
 I build AI systems that move from **model to API to physical device**.
 
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=LLM+agents+that+can+be+trusted;Computer+vision+that+runs+at+the+edge;Embedded+systems+that+survive+the+real+world)](https://git.io/typing-svg)
+
+<br />
+
+![7+ years](https://img.shields.io/badge/7%2B_YEARS-PRODUCTION_AI-111827?style=flat-square)
+![MSc VIBOT](https://img.shields.io/badge/MSc-VIBOT-111827?style=flat-square)
+![IEEE publication](https://img.shields.io/badge/IEEE-PUBLISHED-111827?style=flat-square)
+![Real-time edge](https://img.shields.io/badge/REAL--TIME-EDGE_AI-111827?style=flat-square)
+
 </div>
 
 ---
@@ -99,6 +110,59 @@ Some production engagements are confidential. The examples below are public repo
 
 ---
 
+## Open source and experiments
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### [turbovec](https://github.com/muttequrashi/turbovec)
+
+Rust vector indexing with Python bindings, built on TurboQuant.
+
+`Rust` `Python` `vector search`
+
+</td>
+<td valign="top" width="50%">
+
+### [Autonomous Driving TurtleBot3](https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3)
+
+Lane detection and autonomous navigation for a mobile robot.
+
+`Python` `ROS` `robotics`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### [stereo-vo-tum-vi](https://github.com/muttequrashi/stereo-vo-tum-vi)
+
+Stereo visual odometry experiments for perception and robotics.
+
+`computer vision` `visual odometry`
+
+</td>
+<td valign="top" width="50%">
+
+### [quad_simulation](https://github.com/muttequrashi/quad_simulation)
+
+Simulation and control work for quadrotor systems.
+
+`control` `UAV` `simulation`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**Browse all public repositories ->**](https://github.com/muttequrashi?tab=repositories)
+
+</div>
+
+---
+
 ## How I work
 
 <table>
@@ -168,6 +232,18 @@ I care about the question after the demo: **will this survive production?**
 **MSc Computer Vision and Robotics, VIBOT** · Université de Bourgogne, France<br />
 **BE Mechatronics Engineering** · Air University, Islamabad<br />
 **Publication:** [Artificial Neural Network Based Self-Tuned PID Controller for Flight Control of Quadcopter](https://doi.org/10.1109/CEET1.2019.8711864) · IEEE, ICEET 2019
+
+---
+
+## Public footprint
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/muttequrashi?style=flat-square&label=FOLLOWERS&color=2563eb)
+![Public repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-BROWSE_MY_WORK-111827?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=muttequrashi&color=2563eb&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
