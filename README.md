@@ -1,10 +1,6 @@
 <div align="center">
 
-# MUTTE UR REHMAN
-
-### Senior Python AI Engineer | LLMs, Agents, Computer Vision
-
-Paris, France · 7 years building production systems
+<img src="./assets/profile-hero.svg" alt="Mutte Ur Rehman, Independent AI Engineer" width="100%" />
 
 <br />
 
@@ -18,14 +14,6 @@ Paris, France · 7 years building production systems
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutte-ur-rahman)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mutte.rehman@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muttequrashi)
-
-<br />
-
-I build AI systems that move from **model to API to physical device**.
-
-<br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=LLM+agents+that+can+be+trusted;Computer+vision+that+runs+at+the+edge;Embedded+systems+that+survive+the+real+world)](https://git.io/typing-svg)
 
 <br />
 
