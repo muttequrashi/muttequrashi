@@ -165,8 +165,8 @@ I care about the question after the demo: **will this survive production?**
 
 ## Education and publication
 
-**MSc Computer Vision and Robotics, VIBOT** · Université de Bourgogne, France  
-**BE Mechatronics Engineering** · Air University, Islamabad  
+**MSc Computer Vision and Robotics, VIBOT** · Université de Bourgogne, France<br />
+**BE Mechatronics Engineering** · Air University, Islamabad<br />
 **Publication:** [Artificial Neural Network Based Self-Tuned PID Controller for Flight Control of Quadcopter](https://doi.org/10.1109/CEET1.2019.8711864) · IEEE, ICEET 2019
 
 ---
