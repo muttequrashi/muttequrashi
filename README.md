@@ -76,32 +76,29 @@ Some production engagements are confidential. The examples below are public repo
 
 | Area | What I delivered | Evidence |
 | --- | --- | --- |
+| **Warehouse CV** | Real-time pallet detection, tracking, and zone analytics on the edge | [`pallet-detection-edge`](https://github.com/muttequrashi/pallet-detection-edge) · 30+ FPS on Jetson |
 | **Industrial safety** | Multi-camera edge vision for PPE and zone intrusion detection | 4+ streams at 30+ FPS |
-| **Hydrogen VTOL** | Custom PCBs, PX4 drivers, sensor integration, and test-bench systems | Confidential client work |
-| **Industrial IoT** | ESP32-class devices, LoRaWAN connectivity, firmware, and cloud telemetry | Confidential client work |
+| **Hydrogen VTOL** | Custom PCBs, PX4 drivers, sensor integration, and test-bench systems | Private engineering engagement |
+| **Robotic actuation** | CAN-bus servo driver, bus-off recovery, deterministic control loop | Private engineering engagement |
+| **Sensor fusion** | Portable differential pressure driver with drift compensation | Private engineering engagement |
+| **Multi-camera sync** | Frame-sync controller for production perception rigs | Private engineering engagement |
 | **LLM platforms** | Agent workflows, hybrid retrieval, citation grounding, and approval gates | Confidential enterprise work |
-
-<details>
-<summary><strong>Public repositories worth exploring</strong></summary>
-
-<br />
-
-| Repository | Focus |
-| --- | --- |
-| [**turbovec**](https://github.com/muttequrashi/turbovec) | Rust vector index with Python bindings, built on TurboQuant |
-| [**Autonomous Driving TurtleBot3**](https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3) | Lane detection and autonomous navigation |
-| [**stereo-vo-tum-vi**](https://github.com/muttequrashi/stereo-vo-tum-vi) | Stereo visual odometry experiments |
-| [**LudoMate**](https://github.com/muttequrashi/LudoMate) | Robotics and AI project work |
-| [**quad_simulation**](https://github.com/muttequrashi/quad_simulation) | Quadrotor simulation and control work |
-
-</details>
 
 ---
 
-## Open source and experiments
+## Public projects
 
 <table>
 <tr>
+<td valign="top" width="50%">
+
+### [pallet-detection-edge](https://github.com/muttequrashi/pallet-detection-edge)
+
+Real-time pallet detection and tracking pipeline for overhead warehouse cameras. Runs on NVIDIA Jetson at 30+ FPS and is released under Apache-2.0.
+
+`Python` `Jetson` `TensorRT` `YOLO` `Apache-2.0`
+
+</td>
 <td valign="top" width="50%">
 
 ### [turbovec](https://github.com/muttequrashi/turbovec)
@@ -111,6 +108,8 @@ Rust vector indexing with Python bindings, built on TurboQuant.
 `Rust` `Python` `vector search`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 ### [Autonomous Driving TurtleBot3](https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3)
@@ -120,8 +119,6 @@ Lane detection and autonomous navigation for a mobile robot.
 `Python` `ROS` `robotics`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 ### [stereo-vo-tum-vi](https://github.com/muttequrashi/stereo-vo-tum-vi)
@@ -129,15 +126,6 @@ Lane detection and autonomous navigation for a mobile robot.
 Stereo visual odometry experiments for perception and robotics.
 
 `computer vision` `visual odometry`
-
-</td>
-<td valign="top" width="50%">
-
-### [quad_simulation](https://github.com/muttequrashi/quad_simulation)
-
-Simulation and control work for quadrotor systems.
-
-`control` `UAV` `simulation`
 
 </td>
 </tr>
@@ -190,7 +178,6 @@ I care about the question after the demo: **will this survive production?**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Vision and edge
 
@@ -228,7 +215,7 @@ I care about the question after the demo: **will this survive production?**
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/muttequrashi?style=flat-square&label=FOLLOWERS&color=2563eb)
-![Public repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-BROWSE_MY_WORK-111827?style=flat-square)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmuttequrashi&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=111827)
 ![Profile views](https://komarev.com/ghpvc/?username=muttequrashi&color=2563eb&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
