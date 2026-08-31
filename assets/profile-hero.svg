@@ -1,25 +1,25 @@
 <svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B17"/>
-      <stop offset="0.5" stop-color="#101A3A"/>
-      <stop offset="1" stop-color="#081B2B"/>
+      <stop stop-color="#111315"/>
+      <stop offset="0.52" stop-color="#1B2222"/>
+      <stop offset="1" stop-color="#111819"/>
     </linearGradient>
     <linearGradient id="accent" x1="140" y1="90" x2="1080" y2="330" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67E8F9"/>
-      <stop offset="0.48" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#C084FC"/>
+      <stop stop-color="#D7FF62"/>
+      <stop offset="0.5" stop-color="#80D8B1"/>
+      <stop offset="1" stop-color="#77A8FF"/>
     </linearGradient>
     <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 90) rotate(130) scale(410 330)">
-      <stop stop-color="#2563EB" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+      <stop stop-color="#6B8DFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6B8DFF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 370) rotate(-24) scale(390 220)">
-      <stop stop-color="#06B6D4" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+      <stop stop-color="#D7FF62" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#D7FF62" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#A5B4FC" stroke-opacity="0.09"/>
+      <path d="M34 0H0V34" stroke="#D7FF62" stroke-opacity="0.055"/>
     </pattern>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="22"/>
@@ -29,11 +29,11 @@
   <rect width="1200" height="430" rx="26" fill="url(#background)"/>
   <rect width="1200" height="430" rx="26" fill="url(#glowBlue)"/>
   <rect width="1200" height="430" rx="26" fill="url(#glowCyan)"/>
-  <rect x="1" y="1" width="1198" height="428" rx="25" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="428" rx="25" stroke="url(#accent)" stroke-opacity="0.36" stroke-width="2"/>
   <rect x="32" y="32" width="1136" height="366" rx="18" fill="url(#grid)"/>
 
-  <circle cx="980" cy="102" r="58" fill="#22D3EE" fill-opacity="0.13" filter="url(#blur)"/>
-  <circle cx="1040" cy="302" r="84" fill="#A855F7" fill-opacity="0.13" filter="url(#blur)"/>
+  <circle cx="980" cy="102" r="58" fill="#77A8FF" fill-opacity="0.1" filter="url(#blur)"/>
+  <circle cx="1040" cy="302" r="84" fill="#D7FF62" fill-opacity="0.08" filter="url(#blur)"/>
 
   <g opacity="0.7" stroke="url(#accent)" stroke-width="2">
     <path d="M790 120H936L986 170H1110"/>
@@ -41,7 +41,7 @@
     <path d="M778 290H884L938 344H1116"/>
     <path d="M1032 170V268L1090 326"/>
   </g>
-  <g fill="#67E8F9">
+  <g fill="#D7FF62">
     <circle cx="790" cy="120" r="5"/>
     <circle cx="936" cy="120" r="5"/>
     <circle cx="986" cy="170" r="5"/>
@@ -53,12 +53,12 @@
   </g>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="82" y="94" fill="#67E8F9" font-size="16" font-weight="700" letter-spacing="4">INDEPENDENT AI ENGINEER</text>
-    <text x="78" y="190" fill="white" font-size="70" font-weight="800" letter-spacing="-2">MUTTE UR</text>
-    <text x="78" y="265" fill="white" font-size="70" font-weight="800" letter-spacing="-2">REHMAN</text>
+    <text x="82" y="94" fill="#D7FF62" font-size="16" font-weight="700" letter-spacing="4">INDEPENDENT AI ENGINEER</text>
+    <text x="78" y="190" fill="#F5F1E8" font-family="Georgia, Times New Roman, serif" font-size="70" font-weight="700" letter-spacing="-2">MUTTE UR</text>
+    <text x="78" y="265" fill="#F5F1E8" font-family="Georgia, Times New Roman, serif" font-size="70" font-weight="700" letter-spacing="-2">REHMAN</text>
     <rect x="82" y="302" width="250" height="2" fill="url(#accent)"/>
-    <text x="82" y="347" fill="#CBD5E1" font-size="17" font-weight="600" letter-spacing="3">LLMs  /  VISION  /  EMBEDDED</text>
-    <text x="82" y="377" fill="#94A3B8" font-size="14" letter-spacing="2">PARIS, FRANCE  ·  PRODUCTION SYSTEMS</text>
+    <text x="82" y="347" fill="#D8E0D8" font-size="17" font-weight="600" letter-spacing="3">LLMs  /  VISION  /  EMBEDDED</text>
+    <text x="82" y="377" fill="#AAB8AD" font-size="14" letter-spacing="2">PARIS, FRANCE  ·  SYSTEMS THAT HAVE TO WORK</text>
   </g>
 
   <g font-family="monospace" font-size="12" fill="#94A3B8" letter-spacing="1">

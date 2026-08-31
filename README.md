@@ -1,131 +1,147 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Mutte Ur Rehman, Independent AI Engineer" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Mutte Ur Rehman, independent AI engineer" width="100%" />
 
 <br />
 
-[![Open to selected work](https://img.shields.io/badge/OPEN_TO-SELECTED_WORK-16a34a?style=for-the-badge&labelColor=0f172a)](mailto:mutte.rehman@gmail.com?subject=Project%20enquiry)
-[![Python](https://img.shields.io/badge/PYTHON-FIRST-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a)](#technology)
-[![Paris](https://img.shields.io/badge/PARIS-FRANCE-2563eb?style=for-the-badge&labelColor=0f172a)](https://muttequrashi.github.io)
+[![Available for focused work](https://img.shields.io/badge/AVAILABLE-FOCUSED_WORK-16a34a?style=for-the-badge&labelColor=111827)](mailto:mutte.rehman@gmail.com?subject=Project%20enquiry)
+[![Paris](https://img.shields.io/badge/BASED_IN-PARIS-2563eb?style=for-the-badge&labelColor=111827)](https://muttequrashi.github.io)
 
-<br />
+<br /><br />
 
-[![Website](https://img.shields.io/badge/WEBSITE-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://muttequrashi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutte-ur-rahman)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mutte.rehman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muttequrashi)
-
-<br />
-
-![7+ years](https://img.shields.io/badge/7%2B_YEARS-PRODUCTION_AI-111827?style=flat-square)
-![MSc VIBOT](https://img.shields.io/badge/MSc-VIBOT-111827?style=flat-square)
-![IEEE publication](https://img.shields.io/badge/IEEE-PUBLISHED-111827?style=flat-square)
-![Real-time edge](https://img.shields.io/badge/REAL--TIME-EDGE_AI-111827?style=flat-square)
+[Website](https://muttequrashi.github.io) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mutte-ur-rahman) &nbsp; · &nbsp; [Email](mailto:mutte.rehman@gmail.com)
 
 </div>
 
----
+<br />
 
-## What I build
+> I build AI systems that have to work outside the notebook.
+>
+> Language models, computer vision, sensors, firmware, and the unglamorous engineering that connects them.
+
+<br />
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="58%" valign="top">
 
-### LLM systems
+## The short version
 
-Production applications with clear behavior, measurable quality, and controlled cost.
+I am an independent AI engineer with 7+ years of production experience. Most of my work lives at the boundary between software and the physical world: cameras on factory floors, models running on edge devices, and embedded systems that still need to behave when the network disappears.
 
-`agents` `RAG` `evals` `MCP` `FastAPI`
-
-</td>
-<td valign="top" width="33%">
-
-### Edge computer vision
-
-Real-time vision pipelines that run close to the camera, including constrained and offline environments.
-
-`Jetson` `TensorRT` `DeepStream` `OpenVINO`
+I also build reliable LLM products: retrieval systems, agent workflows, evaluation harnesses, and approval paths that make model behaviour easier to understand and improve.
 
 </td>
-<td valign="top" width="33%">
+<td width="42%" valign="top">
 
-### Embedded AI
+## Right now
 
-Connected products that combine sensors, firmware, custom boards, and cloud services.
+**Thinking about**<br />
+How to make AI systems observable, economical, and useful after launch.
 
-`ESP32` `STM32` `LoRaWAN` `KiCad`
+**Usually working in**<br />
+Python · C++ · PyTorch · Rust
+
+**Based in**<br />
+Paris, France
 
 </td>
 </tr>
 </table>
 
-### Why teams bring me in
+<br />
 
-- The prototype works, but production requirements are unclear.
-- The model is too slow, too expensive, or too dependent on the cloud.
-- Different vendors own different parts of the system and nothing connects cleanly.
-- The hardware, firmware, backend, and AI need one technical owner.
-- You need an experienced second opinion before committing to an architecture.
-
----
-
-## Selected work
-
-Some production engagements are confidential. The examples below are public repositories, anonymized work, or high-level descriptions that do not expose client details.
-
-| Area | What I delivered | Evidence |
-| --- | --- | --- |
-| **Warehouse CV** | Real-time pallet detection, tracking, and zone analytics on the edge | [`pallet-detection-edge`](https://github.com/muttequrashi/pallet-detection-edge) · 30+ FPS on Jetson |
-| **Industrial safety** | Multi-camera edge vision for PPE and zone intrusion detection | 4+ streams at 30+ FPS |
-| **Hydrogen VTOL** | Custom PCBs, PX4 drivers, sensor integration, and test-bench systems | Private engineering engagement |
-| **Robotic actuation** | CAN-bus servo driver, bus-off recovery, deterministic control loop | Private engineering engagement |
-| **Sensor fusion** | Portable differential pressure driver with drift compensation | Private engineering engagement |
-| **Multi-camera sync** | Frame-sync controller for production perception rigs | Private engineering engagement |
-| **LLM platforms** | Agent workflows, hybrid retrieval, citation grounding, and approval gates | Confidential enterprise work |
-
----
-
-## Public projects
+## Three parts of the same job
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="33%" valign="top">
+
+### 01 · Intelligence
+
+LLM applications, RAG, agents, tool use, evals, and guardrails.
+
+The goal is not a clever demo. It is a system with behaviour you can inspect and improve.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 · Perception
+
+Computer vision for cameras that are moving, crowded, badly lit, or far from a data centre.
+
+Detection, tracking, calibration, and inference on Jetson and other constrained hardware.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Integration
+
+Firmware, sensors, PCBs, control loops, telemetry, and cloud services.
+
+The part where the diagram becomes a real product.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Selected work
+
+Some engagements are private. These are the useful details I can share without turning a client project into marketing copy.
+
+| | Problem | My part |
+| :--- | :--- | :--- |
+| **01** | Warehouse cameras needed to understand pallets in real time | Built an edge detection and tracking pipeline running at 30+ FPS on Jetson. [View the public repository](https://github.com/muttequrashi/pallet-detection-edge) |
+| **02** | Industrial safety systems needed more than a single camera | Designed multi-camera vision pipelines for PPE and zone intrusion detection across 4+ concurrent streams. |
+| **03** | A hydrogen VTOL platform needed dependable sensing and actuation | Designed custom electronics, PX4 drivers, sensor integration, and test-bench systems. |
+| **04** | LLM products needed grounding, control, and measurable quality | Built agent workflows, hybrid retrieval, citation grounding, evals, and approval gates. |
+
+<br />
+
+## Public projects
+
+Small, honest pieces of work that are safe to inspect.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [pallet-detection-edge](https://github.com/muttequrashi/pallet-detection-edge)
 
-Real-time pallet detection and tracking pipeline for overhead warehouse cameras. Runs on NVIDIA Jetson at 30+ FPS and is released under Apache-2.0.
+Pallet detection and tracking for overhead warehouse cameras. Jetson, TensorRT, YOLO, Python.
 
-`Python` `Jetson` `TensorRT` `YOLO` `Apache-2.0`
+`Apache-2.0`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### [turbovec](https://github.com/muttequrashi/turbovec)
 
-Rust vector indexing with Python bindings, built on TurboQuant.
+Rust vector indexing with Python bindings, built around TurboQuant.
 
-`Rust` `Python` `vector search`
+`Rust` `Python`
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### [Autonomous Driving TurtleBot3](https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3)
 
 Lane detection and autonomous navigation for a mobile robot.
 
-`Python` `ROS` `robotics`
+`Python` `ROS`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### [stereo-vo-tum-vi](https://github.com/muttequrashi/stereo-vo-tum-vi)
 
 Stereo visual odometry experiments for perception and robotics.
 
-`computer vision` `visual odometry`
+`Computer vision`
 
 </td>
 </tr>
@@ -133,113 +149,63 @@ Stereo visual odometry experiments for perception and robotics.
 
 <div align="center">
 
-[**Browse all public repositories ->**](https://github.com/muttequrashi?tab=repositories)
+[Browse all public repositories →](https://github.com/muttequrashi?tab=repositories)
 
 </div>
 
----
+<br />
 
-## How I work
+## My working rule
 
 <table>
 <tr>
-<td valign="top" width="20%"><strong>01<br />Frame</strong><br /><br />Find the real constraint.</td>
-<td valign="top" width="20%"><strong>02<br />Prototype</strong><br /><br />Prove the difficult part early.</td>
-<td valign="top" width="20%"><strong>03<br />Measure</strong><br /><br />Track latency, quality, and cost.</td>
-<td valign="top" width="20%"><strong>04<br />Integrate</strong><br /><br />Connect the full system.</td>
-<td valign="top" width="20%"><strong>05<br />Ship</strong><br /><br />Leave it operable and documented.</td>
+<td width="20%" valign="top"><strong>Frame</strong><br /><br />Find the constraint that actually matters.</td>
+<td width="20%" valign="top"><strong>Prove</strong><br /><br />Test the difficult part before polishing the demo.</td>
+<td width="20%" valign="top"><strong>Measure</strong><br /><br />Watch latency, quality, cost, and failure modes.</td>
+<td width="20%" valign="top"><strong>Connect</strong><br /><br />Join the model to the hardware and the people around it.</td>
+<td width="20%" valign="top"><strong>Leave it running</strong><br /><br />Document it well enough for someone else to operate.</td>
 </tr>
 </table>
 
-I care about the question after the demo: **will this survive production?**
+> The question after the demo is always the same: **will this survive production?**
 
----
+<br />
 
-## Technology <a id="technology"></a>
+## Tools I reach for
 
 <div align="center">
 
-### AI and data
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Agents and backend
-
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Vision and edge
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-### Embedded and robotics
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-4B5563?style=flat-square)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00AEEF?style=flat-square)
 ![PX4](https://img.shields.io/badge/PX4-111827?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
 </div>
 
----
+<br />
 
-## Education and publication
+## A few receipts
 
-**MSc Computer Vision and Robotics, VIBOT** · Université de Bourgogne, France<br />
+**MSc Computer Vision and Robotics** · VIBOT, Université de Bourgogne<br />
 **BE Mechatronics Engineering** · Air University, Islamabad<br />
-**Publication:** [Artificial Neural Network Based Self-Tuned PID Controller for Flight Control of Quadcopter](https://doi.org/10.1109/CEET1.2019.8711864) · IEEE, ICEET 2019
+**IEEE publication** · [Self-tuned PID control for quadcopters](https://doi.org/10.1109/CEET1.2019.8711864)
 
----
-
-## Public footprint
+<br />
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/muttequrashi?style=flat-square&label=FOLLOWERS&color=2563eb)
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmuttequrashi&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=111827)
-![Profile views](https://komarev.com/ghpvc/?username=muttequrashi&color=2563eb&style=flat-square&label=PROFILE+VIEWS)
+## Have a real system to figure out?
 
-</div>
-
----
-
-## Ways to work together
-
-| Format | Best for |
-| --- | --- |
-| **Focused sprint** | A difficult technical problem that needs momentum in 2 to 3 days |
-| **Product build** | An MVP that needs to move from idea to working system in 4 to 8 weeks |
-| **Architecture review** | A second opinion on models, infrastructure, edge deployment, or hardware |
-| **Discovery call** | Defining the right problem before investing in the wrong solution |
-
-Not a fit for staff augmentation, ticket queues, unpaid trials, or crypto projects.
-
----
-
-<div align="center">
-
-## Have a system that needs to work?
-
-Tell me what you are building, what is getting in the way, and what success looks like.
+Tell me what you are building, where it is getting stuck, and what “working” needs to mean.
 
 <br />
 
