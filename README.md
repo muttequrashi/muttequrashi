@@ -203,6 +203,16 @@ Stereo visual odometry experiments for perception and robotics.
 
 <div align="center">
 
+<img src="koi/koi.gif" width="256" alt="Pixel art koi drawn from my public GitHub activity" />
+
+<sub>Redrawn every night from my public GitHub activity.</sub>
+
+</div>
+
+<br />
+
+<div align="center">
+
 ## Have a real system to figure out?
 
 Tell me what you are building, where it is getting stuck, and what “working” needs to mean.
