@@ -9,7 +9,7 @@
 
 <br /><br />
 
-[Website](https://muttequrashi.github.io) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mutte-ur-rahman) &nbsp; · &nbsp; [Email](mailto:mutte.rehman@gmail.com)
+[Website](https://muttequrashi.github.io) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mutte-ur-rahman) &nbsp; · &nbsp; [Email](mailto:muttequreshi@gmail.com)
 
 </div>
 
